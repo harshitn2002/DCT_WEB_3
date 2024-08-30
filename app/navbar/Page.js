@@ -17,7 +17,7 @@ export default function Navbar2() {
         <div className="logo">
           <a href="/" className="mt-3 w-fit">
             <Image
-              src="/images/dct_logo.svg"
+              src="/dct_logo.svg"
               alt="DCT Logo"
               width={85}
               height={45}

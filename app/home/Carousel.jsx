@@ -58,7 +58,7 @@ export default function Carousel() {
 
   const items = [
     {
-      src: "/images/servicesimg1.jpg",
+      src: "/servicesimg1.jpg",
       category: "AI In Health",
       title: "Revolutionizing Health with AI",
       content:
@@ -68,7 +68,7 @@ export default function Carousel() {
         " Our expertise extends to AI-powered radiology, where we assist in faster and more accurate diagnostics, and Smart HMS (Hospital Management System) solutions that optimize hospital operations, ensuring efficient patient care and resource management. With a proven track record in AI-driven healthcare innovations, we are committed to driving the future of medicine. ",
     },
     {
-      src: "/images/servicesimg2.jpg",
+      src: "/servicesimg2.jpg",
       category: "Fintech",
       title: "Innovating Finance with Technology",
       content:
@@ -80,7 +80,7 @@ export default function Carousel() {
         "   Furthermore, our Money Management solutions are designed to streamline financial planning, allowing users to efficiently manage assets, track spending, and achieve their financial goals. Each of these projects reflects our commitment to innovation, security, and customer satisfaction in the Fintech space.",
     },
     {
-      src: "/images/servicesimg3.jpg",
+      src: "/servicesimg3.jpg",
       category: "Digital Marketing",
       title: "Transforming Brand Through Targeted Marketing",
       content:
@@ -90,21 +90,21 @@ export default function Carousel() {
         " Content Marketing is another key pillar of our services, where we develop and distribute valuable, relevant, and consistent content to attract and retain a clearly defined audience, ultimately driving profitable customer action. Additionally, our Campaign Management services ensure that every digital marketing effort is carefully planned, executed, and optimized for maximum ROI. With a proven track record of delivering successful projects across these areas, we are well-equipped to help your business thrive in the digital landscape. ",
     },
     {
-      src: "/images/servicesimg4.jpg",
+      src: "/servicesimg4.jpg",
       category: "AI & MLOps",
       title: "Optimizing Operations with AI",
       content:
         "Our AI & ML Ops services empower businesses to harness the full potential of artificial intelligence and machine learning with seamless deployment, management, and scaling of models. We specialize in creating dynamic and intelligent solutions such as our state-of-the-art Dynamic Chatbot powered by Generative AI, a Custom Hybrid RAG (Retrieval-Augmented Generation) application for enhanced information retrieval, a Custom Virtual Agent tailored to specific industry needs, and AI Workflow Automation that streamlines processes and boosts operational efficiency. With our expertise, we ensure that your AI initiatives are not only innovative but also resilient, scalable, and aligned with your business goals.",
     },
     {
-      src: "/images/servicesimg5.jpg",
+      src: "/servicesimg5.jpg",
       category: "Data Science",
       title: "Transforming Data into Insights",
       content:
         "At Data Culture Technologies, we offer cutting-edge Data Science services to help you unlock the full potential of your data. Our team of experts leverages advanced analytics, machine learning, and artificial intelligence to provide actionable insights and drive strategic decision-making. From data collection and cleaning to complex modeling and visualization, we ensure your data is harnessed effectively to optimize operations, enhance customer experiences, and achieve your business goals. Partner with us to transform your data into a powerful asset for growth and innovation.",
     },
     {
-      src: "/images/servicesimg6.jpg",
+      src: "/servicesimg6.jpg",
       category: "Frontend Development",
       title: "Crafting Engaging User Experiences",
       content:

@@ -15,7 +15,7 @@ export default function Footer2() {
             <div className="col1">
               <div className="col11 col1-each title">
                 <Image
-                  src="/images/dct_logo.svg"
+                  src="/dct_logo.svg"
                   alt="DCT Logo"
                   width={100}
                   height={100}
