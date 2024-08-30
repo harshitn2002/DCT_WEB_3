@@ -11,7 +11,7 @@ export default function Navbar() {
           className="mt-3"
         >
           <Image
-            src="/images/dct_logo.svg" // Use the static path directly
+            src="/dct_logo.svg" // Use the static path directly
             alt="DCT Logo" // Provide a meaningful alt text
             width={85}
             height={45}
